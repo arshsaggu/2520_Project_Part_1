@@ -1,4 +1,11 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "e59f6358-c63b-4e61-a003-a58f9cc9ee2c",
+      "username": "awal",
+      "password": "bawal",
+      "profilePicture": ""
+    }
+  ],
   "tips": []
 }
